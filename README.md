@@ -10,11 +10,10 @@ https://github.com/tianfeng33/O-MVS
 
 Notes about the uploaded BOM:
 
-All resistors and capacitors have 1206 footprint for easy DIY soldering.
+*For Resistors:* Whichever brand you want as long as they are: SMD, 1206 footprint, 1/4w and 1% tolerance.
 
-For Resistors: You may purchase whichever brand you want as long as they are: SMD, 1206 footprint, 1/4w and 1% tolerance.
-
-Capacitors should be rated for 10v minimum, SMD and 1206 footprint.
-
+*For Capacitors:* Whichever brand you want as long as they are: SMD, rated 10v minimum and 1206 footprint.
 
 The PCB design was exported from EasyEDA.
+
+If you modify this project, please don't forget to credit me and tianfeng33.
